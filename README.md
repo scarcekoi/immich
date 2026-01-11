@@ -36,9 +36,12 @@
 
 ## Usage
 
-1. Download the flavor of your choice.
-2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the downloaded flavor file.
+1. Copy the CSS of your flavour of choice in [themes](https://github.com/catppuccin/immich/blob/main/themes).
+2. Click your profile icon in the upper right corner.
+3. Click `Administration` in the dropdown.
+4. Click `Settings` on the left.
+5. Scroll down and open the `Theme Settings` dropdown.
+6. Paste the copied CSS into the `Custom CSS` box and click save.
 
 ## 💝 Thanks to
 
